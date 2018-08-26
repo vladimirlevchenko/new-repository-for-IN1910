@@ -1,5 +1,8 @@
 # IN1910 – Programming with Scientific Applications
 
+*This is an edited file*
+The file was edited via nano bash command
+
 The course IN1910 - Fall 2018 shares its materials at a git repository hosted at UiO, which is also available on JupyterHub
 
 Please see:
